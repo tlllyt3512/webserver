@@ -1,2 +1,2 @@
 # webserver
-学习简单的webserver和git的使用
+学习webserver及git的使用
