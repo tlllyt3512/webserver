@@ -13,4 +13,4 @@ private:
     size_t write(const char* logline, size_t len);
     FILE *fp_;
     char buffer_[64 * 1024];
-}
+};
